@@ -1,0 +1,7 @@
+E:\C#\online\W03\caulenhlap\thietkemenu\thietkemenu\bin\Debug\thietkemenu.exe.config
+E:\C#\online\W03\caulenhlap\thietkemenu\thietkemenu\bin\Debug\thietkemenu.exe
+E:\C#\online\W03\caulenhlap\thietkemenu\thietkemenu\bin\Debug\thietkemenu.pdb
+E:\C#\online\W03\caulenhlap\thietkemenu\thietkemenu\obj\Debug\thietkemenu.csproj.AssemblyReference.cache
+E:\C#\online\W03\caulenhlap\thietkemenu\thietkemenu\obj\Debug\thietkemenu.csproj.CoreCompileInputs.cache
+E:\C#\online\W03\caulenhlap\thietkemenu\thietkemenu\obj\Debug\thietkemenu.exe
+E:\C#\online\W03\caulenhlap\thietkemenu\thietkemenu\obj\Debug\thietkemenu.pdb
